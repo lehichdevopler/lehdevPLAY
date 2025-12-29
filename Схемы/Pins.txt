@@ -1,7 +1,7 @@
 Экран(2.8 дюймов 320x240):
 Clk – 12
 Mosi – 11
-Res – 46
+Res – 3.3V
 Dc – 9
 Blk – 3.3v
 Cs – 10
@@ -26,4 +26,5 @@ Select(джостик SW) - 4
 L - 17
 ------------------------
 Сайт: lehdev.mozellosite.com
+
 Telegram: @LehDev
